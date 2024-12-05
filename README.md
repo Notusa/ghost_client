@@ -15,3 +15,9 @@ The project is based on the Python programming language. For this, I used the sc
 # Environment.
 
 The script was developed to work on a Raspberry Pi and its Raspberry Pi OS. Modifications are certainly to be expected depending on your context.
+
+line 41. The interface is directly coded in the script. You're supposed to change it according to your context.
+
+line 44. The SSID is directly coded in the script. You're supposed to change it according to your context.
+
+line 47. The channels used are 2,4 GHz ones. You can easily change it according to your need.
